@@ -1,0 +1,19 @@
+.word-length-calculator {
+    width: 300px;
+    margin: 100px auto;
+  }
+  
+  #text-input {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
